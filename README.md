@@ -10,10 +10,6 @@ LinkedIn:<br>
 [Robert](https://www.linkedin.com/in/robertxing2004/)<br>
 [Andrew](https://www.linkedin.com/in/andrewwu626/)<br>
 
-GitHub:<br>
-[Robert](https://github.com/robertxing2004)<br>
-[Andrew](https://github.com/awu626)<br>
-
 Infinite Flight Community:<br>
 [Robert](https://community.infiniteflight.com/u/robert_xing/summary)<br>
 [Andrew](https://community.infiniteflight.com/u/andrewwu/summary)
